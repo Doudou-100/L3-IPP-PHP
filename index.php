@@ -14,7 +14,7 @@
     if(isset($_GET['action'])){
         require_once './src/routes/CategorieRoute.php';
         require_once './src/routes/ProduitRoute.php';
-      
+      echo "ipp";
     }
 
     
